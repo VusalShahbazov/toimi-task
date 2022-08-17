@@ -1,4 +1,5 @@
 ### Toimi test task
+Announcements crud example
 
 
 
@@ -40,3 +41,14 @@
 ```
 
 3. Dont forget about migration
+
+
+
+
+
+
+Links to repos what i used
+1. [Go clean arch](https://github.com/bxcodec/go-clean-arch)
+2. [Folder struct](https://github.com/golang-standards/project-layout)
+3. [Gin framework](https://github.com/gin-gonic/gin)
+4. [Go pg orm](https://github.com/go-pg/pg)
